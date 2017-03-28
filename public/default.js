@@ -1,3 +1,5 @@
+var socket = io();
+
 var initGame = function() {
 	var cfg = {
 		draggable: true,
